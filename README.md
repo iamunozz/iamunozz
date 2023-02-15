@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @iamunozz
 - 👀 I’m interested in ecommerce development and support. Primary experience in @magento
-- 🌱 I’m currently learning react ... other tech tools
+- 🌱 I’m currently learning react 💻
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ... you know the ways :)
 
