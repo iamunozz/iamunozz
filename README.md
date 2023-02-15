@@ -1,12 +1,18 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @iamunozz
+- 👀 I’m interested in ecommerce development and support. Primary experience in @magento
+- 🌱 I’m currently learning react ... other tech tools
+<!--- - 💞️ I’m looking to collaborate on ... --->
+- 📫 How to reach me ... you know the ways :)
+
 <!--
 **iamunozz/iamunozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
